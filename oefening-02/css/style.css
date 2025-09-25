@@ -1,0 +1,22 @@
+li:nth-child(ODD) {
+    color: lightblue;
+
+
+
+
+
+
+}
+li:nth-child(Even){
+    background-color: lightgrey;
+
+
+
+
+
+}
+
+
+
+
+
